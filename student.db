@@ -1,0 +1,11 @@
+SELECT * FROM studentdb.student;
+
+insert into student values (1,prathyusha,prathyu)
+;
+insert into student values (2,susmitha,susmi);
+
+insert into student values (3,prathyusha,123);
+
+insert into student values (4,sagar,sag);
+
+insert into student values (5,saila,sai);
